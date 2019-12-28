@@ -10,3 +10,4 @@ Two files attached - original Photoshop file, and file, processed in Krita (adde
 
 Uploaded at:
 - Github: https://github.com/TheArtOfFossa/NotMineArt-Simuran-OnTheTopOfTheWorld
+- FA: http://www.furaffinity.net/view/34389211/
